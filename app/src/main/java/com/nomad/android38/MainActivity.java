@@ -11,6 +11,7 @@ import com.nomad.android38.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
+    // simple comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
